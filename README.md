@@ -1,4 +1,4 @@
-# Drawing graph from Pinheiros
+# Manipulating the streets graph from Pinheiros
 Graph from pinheiros
 
 ## Running
