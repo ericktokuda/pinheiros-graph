@@ -1,6 +1,9 @@
 # Manipulating the streets graph from Pinheiros
 Graph from pinheiros
 
+## Pre-run
+```pip install -r requirements.txt```
+
 ## Running
 Simple as:
 
